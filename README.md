@@ -49,3 +49,15 @@ Bilgisayar Bilimi (Computer Science), bilgisayarların yazılımları, donanıml
 
 🧑‍💻Yazılım: Yazılım, bilgisayarın çalışmasını sağlayan programlar ve uygulamaların tümüdür. Örnek olarak, işletim sistemleri ve uygulama yazılımları verilebilir.
 
+### Chat Botlar
+
+Günümüzde yapay zekanın gelişmesiyle birlikte chat botları bizlere oldukça pratiklik kazandırmaktadırlar. Özellikle ‘Googlelamak’ gibi araştırma gerektiren işlemlerde prompt hazırlayabilme yetisi gibi özellikler için öğrenim ihtiyacı oluşturmakta.
+
+Gelin hep beraber neden günümüzde “ayakta kalabilmek” için yapay zekâ chat botlarını kullanmamız gerektiğini inceleyelim 👇🏻
+
+Günümüzde chat botlar, özellikle müşteri hizmetleri alanında sıklıkla kullanılmakta. Chat botların kullanımının artmasıyla birlikte, daha gelişmiş chat botları ortaya çıktı. Örneğin, ChatGPT ve Bard gibi chat botlar, doğal dil işleme teknolojisi kullanarak insanlarla doğal bir şekilde iletişim kurabilir ve farklı konularda sorulara yanıt verebilir. Bu sayede, şirketlerin müşteri hizmetlerini daha iyi bir seviyeye taşımalarına yardımcı olabilir.
+
+Gelişen teknolojiye ayak uydurmak, özellikle iş dünyasında rekabet avantajı sağlamak açısından çok önemli. Chat botlar gibi yapay zeka teknolojilerinin kullanımı, şirketlerin müşteri deneyimini ve operasyonel verimliliğini artırmasına yardımcı olabilir. Bu nedenle, öğrenciler olarak da bu teknolojileri öğrenmek ve gelişmeleri takip etmek, gelecekte iş hayatınızda avantaj sağlayabilir 🤩
+
+Sonuç olarak, chat botlar ve özellikle ChatGPT ve Bard gibi gelişmiş chat botlar, işletmelerin müşteri hizmetlerini geliştirmelerine yardımcı olabilir. İlerleyen süreçte bu teknolojiyi verimli kullanmanın üzerinde duracağız 🚀
+
