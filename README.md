@@ -77,3 +77,20 @@ Sonuç olarak, chat botlar ve özellikle ChatGPT ve Bard gibi gelişmiş chat bo
 6️⃣ C++, bilgisayar yazılımları ve oyunlar için yaygın olarak kullanılan bir programlama dilidir. C++, yüksek performanslı uygulamaların geliştirilmesi için idealdir. C++ aynı zamanda, donanım kontrolü, ağ programlama ve veri yapıları gibi konularda da kullanılır.
 
 7️⃣ C#, Microsoft tarafından geliştirilmiş bir programlama dilidir. C#, Windows işletim sistemi ve Microsoft'un .NET Framework yazılım geliştirme ortamı için en uygun dillerden biridir. C#, masaüstü uygulamaları, web uygulamaları ve oyunlar gibi birçok farklı uygulama türü için kullanılabilir.
+
+
+* IDE, yazılım geliştirme sürecini kolaylaştırmak için bir araya getirilmiş bir dizi araç ve özellikler içeren bir yazılım programıdır. IDE'ler genellikle kod yazma, hata ayıklama, derleme, sürüm kontrolü gibi işlemleri tek bir yerden yönetmeyi sağlar. Örneğin, popüler IDE'lerden biri olan Visual Studio, hem kod yazma alanı hem de derleme ve hata ayıklama araçlarını içerir 📌
+
+Text editörü ise daha basit bir yazılımdır ve sadece metin düzenlemesi yapmanıza olanak sağlar. Notepad gibi basit bir metin editörü, bu kategoriye örnek olarak verilebilir. Text editörleri, genellikle kod yazma işlemi için minimalist bir ortam sunar ve genellikle daha hafif ve daha hızlıdır 👀
+
+IDE'ler ile Text editörleri arasındaki temel fark, ek işlevselliğe sahip olmalarıdır. IDE'ler, kod yazma sürecini daha verimli hale getirmek için bir dizi özellik ve araç sunar. Örneğin, otomatik tamamlama, kod biçimlendirme, hata ayıklama, derleme ve sürüm kontrolü gibi özellikler IDE'lerin sunduğu avantajlardan bazılarıdır. Bu özellikler, büyük ölçekli projelerde veya karmaşık kod tabanlarında çalışırken büyük bir fayda sağlar 🙏🏻
+
+Text editörleri ise daha minimalist bir yaklaşıma sahiptir. Kodunuzu temiz bir şekilde yazmanıza olanak tanırken, daha az kaynak tüketir ve daha hızlı çalışır. Text editörleri, daha küçük ölçekli projelerde veya basit düzenlemeler yaparken tercih edilebilir 🥰
+
+Hangi yazılımı kullanmanız gerektiği sorusu ise tamamen sizin ihtiyaçlarınıza ve tercihlerinize bağlıdır. Eğer yeni bir projeye başlıyorsanız ve daha fazla özellik ve araca ihtiyacınız varsa, bir IDE kullanmak daha uygun olabilir. IDE'ler genellikle daha kapsamlı bir destek sunar ve daha verimli bir kod yazma deneyimi sağlar 💪🏻
+
+Sonuç olarak, IDE ve Text editörü arasındaki tercih tamamen size bağlıdır. İhtiyaçlarınızı ve projenizin gereksinimlerini göz önünde bulundurarak, hangi yazılımın size daha uygun olduğuna karar verebilirsiniz.
+
+Yazılıma yeni başlayacağımız için tercihimizin text editöründen yana olması öğrenimimizi kolaylaştıracaktır. Unutmayalım ki ne kadar hata yaparsak o kadar gelişiriz 😊
+
+Başarılar 🚀
