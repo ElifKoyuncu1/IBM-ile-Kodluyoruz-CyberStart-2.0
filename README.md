@@ -215,3 +215,63 @@ Güvenlik duvarları, izinsiz girişleri engellemek için ağdaki trafiği izley
 Örnek: Bir web sitesine kredi kartı bilgileriyle giriş yaparken, bu bilgiler şifreleme ile korunur.
 
 
+* Fonksiyonel programlama ve nesne tabanlı programlama, yazılım geliştirmede kullanılan iki farklı yaklaşımdır. Her ikisinin de kendi güçlü yanları ve zayıf yanları vardır 👀
+
+### 🚀 Fonksiyonel Programlama:
+
+Fonksiyonel programlama (FP), programların seri olarak hesaplanmış fonksiyonlar olarak görüldüğü bir paradigmadır. Bu yaklaşımın bazı özellikleri şunlardır:
+
+Yan etkisiz (pure) fonksiyonlar: Fonksiyonlar, girdilerine göre çıktılar üretir ve genellikle dış dünyayla etkileşimde bulunmazlar.
+
+İlk-class fonksiyonlar: Fonksiyonlar, başka bir fonksiyonun çıktısı olarak kullanılabilir veya bir başka fonksiyonun girdisi olarak kullanılabilir.
+
+Yüksek seviye fonksiyonlar: Map, reduce, filter gibi yüksek seviye fonksiyonlar genellikle kullanılır.
+
+Özyineleme: Döngüler yerine genellikle özyineleme kullanılır.
+
+C ve Lisp gibi diller, fonksiyonel programlamaya örnek olarak verilebilir.
+
+🔎 Nesne Tabanlı Programlama:
+
+Nesne tabanlı programlama (OOP), programları bir dizi birbiriyle etkileşimde bulunan nesneler olarak tasarlar. OOP'nin bazı özellikleri şunlardır:
+
+Sınıflar ve nesneler: Veri ve fonksiyonları bir arada tutan nesneler ve bu nesnelerin şablonları olan sınıflar bulunur.
+
+Kalıtım: Bir sınıfın özellikleri, başka bir sınıftan kalıtılarak yeniden kullanılabilir.
+
+Enkapsülasyon: Nesne, veri ve davranışları (fonksiyonlar) bir araya getirerek veriyi dış dünyadan korur.
+
+Polimorfizm: Nesneler, aynı arayüzü farklı şekillerde uygulayabilir.
+
+Java, Python ve C++ gibi diller, nesne tabanlı programlamaya örnek olarak verilebilir.
+
+Her iki programlama paradigması da kendi kullanım senaryolarına sahiptir. Fonksiyonel programlama, durumun önemli olmadığı veya yan etkilerin minimal olduğu durumlar için genellikle daha uygundur. Nesne tabanlı programlama ise genellikle büyük ve karmaşık yazılım sistemlerinde, nesneler arasındaki etkileşimi modellemek için kullanılır. Ancak, modern diller genellikle birkaç paradigmayı birleştirebilen çok-paradigmali yaklaşımları benimser, bu yüzden bir programcının her iki yaklaşımla da rahat olması önemli 💻
+
+
+🔓 Açık Yazılım (Open Source): Açık Yazılım, kaynak kodunun herkese açık ve erişilebilir olduğu yazılım türüdür. Bu, yazılımın geliştirilmesi, değiştirilmesi ve dağıtılması için izin verir. Açık Yazılım, genellikle bir topluluk tarafından geliştirilir ve kaynak kodu herkesin inceleyebilmesi ve katkıda bulunabilmesi için yayınlanır. Açık Yazılım, şeffaflık, işbirliği ve yenilikçilik gibi değerlere dayanır. Örnekler: Linux işletim sistemi, Apache HTTP Server, Mozilla Firefox, Blender 3D modelleme yazılımı.
+
+🔐 Kapalı Yazılım (Closed Source): Kapalı Yazılım, kaynak kodunun geliştirici veya şirket tarafından gizli tutulduğu yazılım türüdür. Kullanıcılar, yazılımı kullanabilirler, ancak kaynak kodunu göremezler veya değiştiremezler. Kapalı Yazılım, genellikle ticari şirketler tarafından geliştirilir ve sadece belirli bir lisans altında kullanıcılar tarafından satın alınır veya lisanslanır. Örnekler: Microsoft Windows işletim sistemi, Adobe Photoshop, Microsoft Office paketi.
+
+🗽 Özgür Yazılım (Free Software): Özgür Yazılım, kullanıcıların yazılımı özgürce kullanma, inceleme, değiştirme ve dağıtma özgürlüğüne sahip olduğu yazılım türüdür. "Özgür" burada "özgürlük" anlamında kullanılır, maliyetle ilgili değildir. Özgür Yazılım, kullanıcıların kontrol ve esneklik sağlamayı amaçlar. Kaynak kodu genellikle herkese açıktır ve yazılımı kullanan herkes bu özgürlüklere sahiptir. Örnekler: GNU/Linux işletim sistemi, LibreOffice ofis paketi, GIMP grafik düzenleyici.
+
+❣️ Özgür Yazılım ve Açık Yazılım bazen karıştırılabilir, ancak aralarında bazı farklar vardır. Açık Yazılım, sadece kaynak kodunun açık olmasını gerektirirken, Özgür Yazılım, kullanıcılara belirli özgürlükleri sunar. Özgür Yazılım, kullanıcıların özgürce yazılımı kullanma, paylaşma ve değiştirme hakkına sahip olduğunu vurgular. Açık Yazılım genellikle Özgür Yazılım prensiplerini destekler, ancak her Açık Yazılım Özgür Yazılım olarak kabul edilmez.
+
+
+### Dokümantasyonun Yazılım Dünyasındaki Önemi 🖥️📖
+
+Yazılım endüstrisi, sürekli değişen ve gelişen bir alandır. Bu dinamik ortamda, dokümantasyonun yeri ve önemi büyük olup, bir yazılımın başarısında kritik bir rol oynamaktadır. Peki yazılımda dokümantasyonun bu kadar önemli olmasının nedenleri nelerdir?
+
+Kodun Anlaşılırlığı 🧠💡 Bir yazılımcının yazdığı kod, diğer yazılımcılar için anlaşılır olmalıdır. Bu, kodun devamlılığını ve sürdürülebilirliğini sağlar. Dokümantasyon, kodun niçin ve nasıl yazıldığına dair iç görüler sağlar, böylece yeni gelen bir yazılımcı bile sistemi hızla kavrayabilir.
+
+Kullanıcı Desteği 🤝🔧 API'ler, kütüphaneler veya araçlar için sağlanan dokümantasyon, diğer yazılımcıların bu araçları doğru bir şekilde kullanmalarını sağlar. Ayrıca, son kullanıcı için ürün dokümantasyonları, bir ürünün nasıl kullanılacağına dair adımları açıkça belirtir, bu da kullanıcı deneyimini artırır.
+
+Hata Ayıklama 🐞🔍 Bir yazılım hatası olduğunda, dokümantasyon, sorunun kaynağını bulmada yardımcı olabilir. Hangi fonksiyonların nasıl çalıştığına dair bilgilere sahip olmak, hatanın nerede ve neden oluştuğunu anlamaya yardımcı olur.
+
+İşbirliği ve Takım Çalışması 🌐🤲 Bir yazılım projesi genellikle birçok bireyin katılımıyla gerçekleşir. Dokümantasyon, tüm ekip üyelerinin aynı bilgi seviyesine ulaşmasını ve projede neler olup bittiğini takip etmesini sağlar.
+
+Proje Planlama ve Geliştirme 📈🔗 Özellikle büyük ölçekli projelerde, özelliklerin ve gereksinimlerin dokümantasyonu projenin doğru bir şekilde planlanmasına ve yönetilmesine yardımcı olur. Bu, proje yöneticileri ve geliştiriciler arasında açık bir iletişim kanalı oluşturur.
+
+Tarihsel Kayıt 🕰️📜 Dokümantasyon, bir yazılımın tarihçesini saklar. Bu, neden belirli kararların alındığını ve geçmişte hangi sorunların çözüldüğünü anlamak için hayati öneme sahiptir.
+
+Sonuç olarak, yazılım dünyasında dokümantasyon, projelerin etkili ve verimli bir şekilde yürütülmesinde, ayrıca kodun sürdürülebilirliğinde ve devamlılığında kilit bir rol oynar. Bir sonraki yazılım projenizde dokümantasyonun önemini göz ardı etmeyin! 🌟🔐📚
+
