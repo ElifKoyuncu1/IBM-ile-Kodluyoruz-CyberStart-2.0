@@ -61,3 +61,19 @@ Gelişen teknolojiye ayak uydurmak, özellikle iş dünyasında rekabet avantaj�
 
 Sonuç olarak, chat botlar ve özellikle ChatGPT ve Bard gibi gelişmiş chat botlar, işletmelerin müşteri hizmetlerini geliştirmelerine yardımcı olabilir. İlerleyen süreçte bu teknolojiyi verimli kullanmanın üzerinde duracağız 🚀
 
+
+### Bazı Programlama Dillerine Uzaktan Bakış
+
+1️⃣ Java, bilgisayarlar tarafından anlaşılabilen bir programlama dilidir. Java, programlama dilleri arasında en popüler olanlardan biridir. Java, karmaşık uygulamaların geliştirilmesi için kullanılan bir dildir. Java ile uygulamalar yazarken, programlama kodunu yazdıktan sonra, kodu bilgisayarda çalıştırmak için "Java Virtual Machine (JVM)" adı verilen bir program kullanılır. Bu sayede Java kodu, farklı işletim sistemlerinde çalışabilir.
+
+2️⃣ JavaScript, web sayfalarında kullanılan bir programlama dilidir. JavaScript, sayfadaki öğeleri değiştirmek veya hareketlendirmek için kullanılır. Örneğin, bir web sayfasındaki butona tıklandığında, JavaScript bu butona tıklanma işlemini algılar ve ardından sayfadaki diğer öğeleri değiştirebilir.
+
+3️⃣ Python, insanlar tarafından anlaşılabilen bir programlama dilidir. Python, programlama dünyasında popüler olan bir dildir. Python ile yapabileceğiniz birçok şey vardır. Örneğin, verileri analiz edebilir, bilimsel hesaplamalar yapabilir, web sayfaları oluşturabilir veya oyunlar yazabilirsiniz.
+
+4️⃣ PHP, web sayfalarında dinamik içerikler oluşturmak için kullanılan bir programlama dilidir. PHP, sunucu tarafında çalıştığından, web sayfaları dinamik hale getirilebilir. Örneğin, kullanıcıların bir web formu doldurduğunda, PHP bu formdaki verileri alabilir ve daha sonra veritabanına kaydedebilir veya e-posta gönderebilir.
+
+5️⃣ C, bilgisayar programlamasının temellerini oluşturan bir programlama dilidir. C, düşük seviyeli bir dil olarak bilinir ve bilgisayar donanımına daha yakın düzeyde çalışır. Bu nedenle, C dilinde yazılan programlar genellikle yüksek performanslıdır. C ayrıca işletim sistemleri, sürücüler ve gömülü sistemler gibi alanlarda sıkça kullanılır. C programları, derlendikten sonra doğrudan makine koduna çevrildiği için, farklı işletim sistemlerinde ve donanım platformlarında çalışabilirler. Bu nedenle, C dilinin geniş bir kullanım alanı vardır.
+
+6️⃣ C++, bilgisayar yazılımları ve oyunlar için yaygın olarak kullanılan bir programlama dilidir. C++, yüksek performanslı uygulamaların geliştirilmesi için idealdir. C++ aynı zamanda, donanım kontrolü, ağ programlama ve veri yapıları gibi konularda da kullanılır.
+
+7️⃣ C#, Microsoft tarafından geliştirilmiş bir programlama dilidir. C#, Windows işletim sistemi ve Microsoft'un .NET Framework yazılım geliştirme ortamı için en uygun dillerden biridir. C#, masaüstü uygulamaları, web uygulamaları ve oyunlar gibi birçok farklı uygulama türü için kullanılabilir.
