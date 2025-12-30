@@ -94,3 +94,124 @@ Sonuç olarak, IDE ve Text editörü arasındaki tercih tamamen size bağlıdır
 Yazılıma yeni başlayacağımız için tercihimizin text editöründen yana olması öğrenimimizi kolaylaştıracaktır. Unutmayalım ki ne kadar hata yaparsak o kadar gelişiriz 😊
 
 Başarılar 🚀
+
+
+### Sürekli duyuyorum, nedir bu kaynak kod 🤔
+
+Kaynak kod, bir programın yazılım dilindeki orijinal kodudur. Biz yazılım geliştiricileri, bu kaynak kodu oluştururuz ve programın makine koduna dönüştürülmesi için kaynak kodunu derleriz veya yorumlarız 🔧 Derleme(compile) işlemi, bir programın kaynak kodunun doğrudan derleyici tarafından makine koduna dönüştürülmesiyle gerçekleştirilir. Derleyici, kaynak kodu okuyarak kodu hızlı bir şekilde makine koduna çevirir. Derleme sonucunda oluşan makine kodu, doğrudan bilgisayar tarafından çalıştırılabilir 💻 Öte yandan, yorumlama işlemi, kaynak kodunun yorumlayıcı tarafından satır satır okunarak çalıştırılmasıdır. Yorumlayıcı, kaynak kodun her satırını yorumlar ve ilgili işlemleri gerçekleştirir. Yorumlama işlemi sonucunda ortaya çıkan çıktı, kullanıcının görebileceği bir sonuçtur 📖
+
+Derleme ve yorumlama arasında bazı farklar bulunmaktadır:
+
+Derleme, kaynak kodunun derleyici tarafından doğrudan makine koduna dönüştürülmesiyle gerçekleştirilirken, yorumlama ise kaynak kodunun yorumlayıcı tarafından satır satır okunarak çalıştırılmasıyla gerçekleştirilir.
+
+Derlenen program, doğrudan makine kodu olarak çalıştırılabilirken, yorumlanan program ise yorumlayıcı tarafından yorumlanarak çalıştırılır.
+
+Derleme işlemi, daha uzun sürebilirken, yorumlama işlemi daha hızlı gerçekleştirilebilir ⏱️
+
+Derlenen programlar, farklı platformlarda çalıştırılamazken, yorumlanan programlar, farklı platformlarda yorumlayıcı mevcut olduğu sürece çalıştırılabilir 🌍
+
+Derleme dillerine örnek olarak C, C++, Java, C# ve Go gibi dilleri verebiliriz. Bu diller, kaynak kodunun derleyici tarafından makine koduna dönüştürülerek çalıştırıldığı dillerdir 🖥️
+
+Yorumlama dillerine örnek olarak Python, JavaScript, Ruby, PHP ve Perl gibi dilleri verebiliriz. Bu diller, kaynak kodunun yorumlayıcı tarafından satır satır okunarak çalıştırıldığı dillerdir 📃 Bu dillerin derlenme veya yorumlama yöntemini kullanması, dilin tasarımına ve kullanım amacına bağlıdır.
+
+Her dilin kendine özgü avantajları ve dezavantajları vardır ve tercih edilen yöntem, projenin gereksinimlerine ve hedeflerine bağlı olarak değişebilir 🎯
+
+### Bilgisayar ağları nedir?
+
+Bilgisayar ağları, birbiriyle iletişim kurabilen ve kaynakları paylaşabilen birden fazla bilgisayarın bir araya gelmesinden oluşur. Bu ağlar, kablolu veya kablosuz bağlantılar aracılığıyla kurulabilir.
+
+Örnek: Bir evdeki bilgisayarlar, bir yazıcıyı paylaşmak için bir ağa bağlanabilir.
+
+Bilgisayar ağlarının faydaları nelerdir?
+
+Kaynak paylaşımı: Yazıcılar, tarayıcılar ve sabit diskler gibi kaynaklar ağdaki tüm bilgisayarlar tarafından kullanılabilir.
+
+İletişim: E-posta, anlık mesajlaşma ve video konferans gibi araçlarla ağdaki kullanıcılar birbirleriyle kolayca iletişim kurabilir.
+
+Dosya paylaşımı: Dosyalar ağdaki bilgisayarlar arasında kolayca paylaşılabilir.
+
+İnternet erişimi: Ağdaki bilgisayarlar internete erişebilir.
+
+Farklı türde bilgisayar ağları nelerdir? 
+
+PAN (Kişisel Alan Ağı): 10 metreye kadar olan bir alanda birbiriyle iletişim kuran cihazları kapsar. Örnek: Bluetooth bağlantısı.
+
+LAN (Yerel Alan Ağı): Bir binada veya sınırlı bir alanda birbiriyle iletişim kuran cihazları kapsar. Örnek: Bir evdeki veya ofisteki bilgisayar ağı.
+
+WAN (Geniş Alan Ağı): Şehirler veya ülkeler arası gibi geniş bir alanda birbiriyle iletişim kuran cihazları kapsar. Örnek: İnternet.
+
+MAN (Metropol Alan Ağı): Bir şehir gibi bir bölgede birbiriyle iletişim kuran cihazları kapsar. Örnek: Bir şehrin kamu kurumlarının ağı.
+
+2. Ağ Donanımı 
+
+Ağ kabloları ve konektörleri:
+
+Ağ kabloları, bilgisayarları ve diğer ağ cihazlarını birbirine bağlamak için kullanılır. En yaygın ağ kablosu türleri RJ-45 konektörlü Ethernet kablolarıdır.
+
+Örnek: Bir bilgisayarı bir modeme bağlamak için bir Ethernet kablosu kullanılır.
+
+Ağ kartları:
+
+Ağ kartları, bilgisayarların ağa bağlanmasını sağlayan donanım cihazlardır. Her bilgisayarın bir ağ kartı olması gerekir.
+
+Örnek: Bir bilgisayara Wi-Fi ile bağlanmak için bir kablosuz ağ kartı takılır.
+
+Hub, switch ve yönlendiriciler:
+
+Hub'lar, birden fazla ağ cihazını birbirine bağlamak için kullanılan donanım cihazlardır. Switch'ler, hub'lara benzer şekilde birden fazla ağ cihazını birbirine bağlar, ancak daha fazla özellik sunarlar. Yönlendiriciler, birden fazla ağ arasında veri trafiğini yönlendirmek için kullanılır.
+
+Örnek: Bir evdeki birden fazla bilgisayarı internete bağlamak için bir switch ve bir yönlendirici kullanılır.
+
+Modemler:
+
+Modemler, internet servis sağlayıcısının sinyalini bilgisayarların kullanabileceği bir sinyale dönüştüren donanım cihazlardır.
+
+Örnek: Bir bilgisayarı internete bağlamak için bir modem kullanılır.
+
+3. Ağ Yazılımı 
+
+IP adresleri ve alt ağ maskeleri:
+
+IP adresleri, ağdaki her bir cihazın benzersiz bir adresini belirler. Alt ağ maskeleri, IP adresinin hangi kısmının ağ kimliğini ve hangi kısmının cihaz kimliğini belirlediğini gösterir.
+
+Örnek: Bir bilgisayarın IP adresi 192.168.1.10 ve alt ağ maskesi 255.255.255.0 ise, bu bilgisayarın 192.168.1.0 ağında olduğunu ve 10 numaralı cihaz olduğunu anlarız.
+
+Protokol katmanları (TCP/IP modeli):
+
+TCP/IP modeli, ağ iletişiminin nasıl gerçekleştiğini tanımlayan bir dizi katmandan oluşur. Her katman farklı bir işlevden sorumludur.
+
+Örnek: TCP/IP modelinin en üst katmanı olan uygulama katmanı, web tarayıcıları ve e-posta istemcileri gibi uygulamalar tarafından kullanılır.
+
+DHCP ve DNS:
+
+DHCP, ağdaki cihazlara otomatik olarak IP adresi atayan bir hizmettir. DNS, web sitesi adlarını IP adreslerine dönüştüren bir hizmettir.
+
+Örnek: Bir bilgisayar internete bağlandığında, DHCP sunucusundan otomatik olarak bir IP adresi alır. Bir web sitesine girmek istediğinde, DNS sunucusu web sitesinin adını IP adresine dönüştürür.
+
+NAT:
+
+NAT, birden fazla ağ cihazının tek bir IP adresi ile internete erişmesine izin veren bir teknolojidir.
+
+Örnek: Bir evdeki birden fazla bilgisayar internete tek bir IP adresi ile erişebilir.
+
+4. Ağ Güvenliği
+
+Temel ağ güvenliği tehditleri:
+
+Virüsler, casus yazılımlar ve kimlik avı gibi çeşitli ağ güvenliği tehditleri vardır.
+
+Örnek: Bir bilgisayar virüs bulaşmış bir e-posta eki açtığında virüs ağdaki diğer bilgisayarlara da yayılabilir.
+
+Güvenlik duvarları ve antivirüs yazılımı:
+
+Güvenlik duvarları, izinsiz girişleri engellemek için ağdaki trafiği izleyen yazılım programlarıdır. Antivirüs yazılımı, bilgisayarları virüslere karşı korumak için kullanılır.
+
+Örnek: Bir bilgisayarın internet bağlantısını korumak için bir güvenlik duvarı kullanılır. Bilgisayarları virüslere karşı korumak için antivirüs yazılımı kullanılır.
+
+Şifreleme:
+
+Şifreleme, verileri yetkisiz erişime karşı korumak için kullanılır.
+
+Örnek: Bir web sitesine kredi kartı bilgileriyle giriş yaparken, bu bilgiler şifreleme ile korunur.
+
+
